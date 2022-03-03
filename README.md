@@ -46,6 +46,7 @@ https://splithire.com
 https://lifeofpix.com
 https://allthefreestock.com
 https://footer.com
+https://www.svgrepo.com/svg/68294/document
 </td>
 <td width="33%">
 <h2 align="center"></h2>
